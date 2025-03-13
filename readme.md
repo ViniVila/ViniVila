@@ -24,6 +24,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <br>
-<p>
-🔹 *Sempre buscando vivendo e aprendendo!* 🚀
+<p style=bold>
+🔹 Sempre buscando vivendo e aprendendo!🚀
 </p>
