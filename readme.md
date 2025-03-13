@@ -1,4 +1,4 @@
-## 💻 *Vinícius Vila*
+ ## 💻 *Vinícius Vila*
 **`Desenvolvedor`**
 
 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI** 
@@ -24,6 +24,5 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <br>
-
-🔹 *Sempre buscando vivendo e aprendendo!*🚀
+## 🔹 *Sempre buscando vivendo e aprendendo!* 🚀
 
