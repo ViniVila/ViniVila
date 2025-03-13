@@ -6,7 +6,7 @@
 💡 Cursando a Linguagem Jova
 🎮 Experiente com alguns jogos como, rocket league,valorant,brawl stars e clash royale
 
-## 🌍 Onde me encontrar:
+## *🌍 Onde me encontrar:*
 📧 Email: [ffvini686@gmail.com]  
 💼 LinkedIn: [em processo] 
 
