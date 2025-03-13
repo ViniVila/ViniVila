@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href= "https://github.com/ViniVila">
-    a>
+   Vinicius Vila
+  </a>
 </p>
 
 <p align="center">
