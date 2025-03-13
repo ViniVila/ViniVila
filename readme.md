@@ -1,4 +1,4 @@
-## 💻 Olá, sou o Vinícius Vila!
+## 💻 *Vinícius Vila*
 **`Desenvolvedor`**
 
 🎓 Estudante de Desenvolvimento de Sistemas no **SENAI**  
