@@ -1,9 +1,12 @@
 ## 💻 *Vinícius Vila*
 **`Desenvolvedor`**
 
-🎓 Estudante de Desenvolvimento de Sistemas no **SENAI**  
+🎓 Estudante de Desenvolvimento de Sistemas no **SENAI** 
+
 📚 Explorando Areas como, Exel,Java,flogoritimo e portugol.
+
 💡 Cursando a Linguagem Jova
+
 🎮 Experiente com alguns jogos como, rocket league,valorant,brawl stars e clash royale
 
 
