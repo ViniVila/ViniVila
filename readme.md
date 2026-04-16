@@ -8,8 +8,8 @@ Estudante focado em construir soluções modernas e eficientes. Atualmente, equi
 
 ## 🚀 O que estou explorando agora?
 - 🌐 **Web:** Construindo interfaces responsivas e APIs seguras.
-- 📱 **Mobile:** Entendendo como levar a experiência do usuário para o bolso.
-- ⚙️ **Engenharia:** Aplicando boas práticas (Clean Code) e metodologias ágeis.
+- 📱 **Mobile:** Levando experiências para o bolso.
+- ⚙️ **Engenharia:** Clean Code + boas práticas + metodologias ágeis.
 
 ---
 
@@ -31,27 +31,48 @@ Estudante focado em construir soluções modernas e eficientes. Atualmente, equi
 ---
 
 ## 📊 Estatísticas do GitHub
-Aqui você pode ver o que eu ando aprontando no código:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO-AQUI&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📈 Atividade (Gráfico Animado)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-AQUI&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
 ## 🧠 Metodologias & Produtividade
-* **Agilidade:** Kanban & Metodologias Ágeis.
-* **Análise:** Framework 5W2H para resolução de problemas.
-* **Office Pro:** Excel Avançado, Word e PowerPoint para documentação técnica.
+* **Agilidade:** Kanban & Scrum
+* **Análise:** 5W2H
+* **Documentação:** Excel, Word e PowerPoint
 
 ---
 
 ## 📫 Vamos conversar?
-Sempre aberto a novos desafios e conexões!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vila-nova/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffvini686@gmail.com)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vila-nova/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffvini686@gmail.com)
+
+</div>
 
 ---
-*"Sempre vivendo, buscando e aprendendo."*
+
+## 🧩 Frase que me define
+> "Sempre vivendo, buscando e aprendendo."
+> 
