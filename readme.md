@@ -1,4 +1,10 @@
-# Olá, eu sou o Vinícius Vila! 👋
+# <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vinícius+Vila!;Desenvolvedor+em+Formação;Apaixonado+por+Tecnologia+e+Inovação;Sempre+evoluindo+🚀" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=blue" alt="contador de visitas"/>
+</div>
+
+---
 
 ### Desenvolvedor em Formação | SENAI — Análise e Desenvolvimento de Sistemas
 
@@ -56,9 +62,9 @@ Estudante focado em construir soluções modernas e eficientes. Atualmente, equi
 ---
 
 ## 🧠 Metodologias & Produtividade
-* **Agilidade:** Kanban & Scrum
-* **Análise:** 5W2H
-* **Documentação:** Excel, Word e PowerPoint
+* **Agilidade:** Kanban & Scrum  
+* **Análise:** 5W2H  
+* **Documentação:** Excel, Word e PowerPoint  
 
 ---
 
@@ -75,4 +81,3 @@ Estudante focado em construir soluções modernas e eficientes. Atualmente, equi
 
 ## 🧩 Frase que me define
 > "Sempre vivendo, buscando e aprendendo."
-> 
