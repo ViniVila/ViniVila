@@ -1,32 +1,57 @@
-Vinícius Vila
+# Olá, eu sou o Vinícius Vila! 👋
 
-Desenvolvedor em formação | SENAI — Análise e Desenvolvimento de Sistemas
+### Desenvolvedor em Formação | SENAI — Análise e Desenvolvimento de Sistemas
 
+Estudante focado em construir soluções modernas e eficientes. Atualmente, equilibro o Ensino Médio com o curso superior de ADS no SENAI, mergulhando no ecossistema Web e Mobile. Sou apaixonado por transformar lógica em código e estou sempre em busca da minha próxima "pequena grande evolução".
 
-Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas no SENAI, cursando simultaneamente o Ensino Médio. Em constante evolução, explorando desenvolvimento web, mobile e boas práticas de engenharia de software. Sempre buscando aprender e aplicar novas tecnologias.
+---
 
-Linguagens
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<br clear="left"/>
+## 🚀 O que estou explorando agora?
+- 🌐 **Web:** Construindo interfaces responsivas e APIs seguras.
+- 📱 **Mobile:** Entendendo como levar a experiência do usuário para o bolso.
+- ⚙️ **Engenharia:** Aplicando boas práticas (Clean Code) e metodologias ágeis.
 
-Ferramentas & Tecnologias
-<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="IntelliJ" title="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-<br clear="left"/>
+---
 
-Metodologias & Produtividade
-Kanban  |  5W2H  |  ChatBot  |  NetBeans  |  Pacote Office (Word · PowerPoint · Excel)
+## 🛠️ Stack Tecnológica
 
-Onde me encontrar
-📧 ffvini686@gmail.com
-💼 LinkedIn — em breve
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Sempre vivendo, buscando e aprendendo.
+### Ferramentas & Bancos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+Aqui você pode ver o que eu ando aprontando no código:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+## 🧠 Metodologias & Produtividade
+* **Agilidade:** Kanban & Metodologias Ágeis.
+* **Análise:** Framework 5W2H para resolução de problemas.
+* **Office Pro:** Excel Avançado, Word e PowerPoint para documentação técnica.
+
+---
+
+## 📫 Vamos conversar?
+Sempre aberto a novos desafios e conexões!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vila-nova/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffvini686@gmail.com)
+
+---
+*"Sempre vivendo, buscando e aprendendo."*
