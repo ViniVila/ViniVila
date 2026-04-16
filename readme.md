@@ -53,6 +53,3 @@ Estudante focado em construir soluções modernas e eficientes. Atualmente, equi
 </div>
 
 ---
-
-## 🧩 Frase que me define
-> "Sempre vivendo, buscando e aprendendo."
