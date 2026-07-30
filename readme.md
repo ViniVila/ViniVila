@@ -1,40 +1,37 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vinícius+Vila!;Desenvolvedor+em+Formação;Apaixonado+por+Tecnologia+e+Inovação;Sempre+evoluindo+🚀" />
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=blue" alt="contador de visitas"/>
-</div>
----
-### Desenvolvedor em Formação | SENAI — Análise e Desenvolvimento de Sistemas
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, onde venho desenvolvendo conhecimentos em programação, desenvolvimento de software, banco de dados e desenvolvimento web. Durante minha formação, busco aprimorar minhas habilidades técnicas por meio de projetos acadêmicos e pessoais, sempre aplicando boas práticas de desenvolvimento e buscando soluções eficientes para diferentes desafios.
-Tenho experiência com tecnologias como HTML, CSS, JavaScript, Java, PHP, MySQL, Git e GitHub, além de interesse em aprender novas ferramentas e acompanhar as tendências da área de tecnologia. Acredito que o aprendizado contínuo e a dedicação são fundamentais para o crescimento profissional.
-Neste GitHub, compartilho projetos que refletem minha evolução como desenvolvedor e meu compromisso com a qualidade, organização e constante aperfeiçoamento. Meu objetivo é construir uma carreira sólida na área de tecnologia, contribuindo com soluções inovadoras e agregando valor por meio do desenvolvimento de sistemas.
----
-## 🚀 O que estou estudando atualmente?
-- 🌐 **Desenvolvimento Web:** Aprimorando minhas habilidades na criação de interfaces responsivas e aplicações modernas.
-- 🗄️ **Banco de Dados:** Modelagem, consultas SQL e integração com aplicações.
-- ⚙️ **Desenvolvimento de Software:** Aplicando lógica de programação, boas práticas, Clean Code, Git/GitHub e metodologias ágeis para desenvolver soluções organizadas e eficientes.
----
-## 🛠️ Stack Tecnológica
-### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-### Ferramentas & Bancos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
----
-## 🧠 Metodologias & Produtividade
-* **Agilidade:** Kanban & Scrum  
-* **Análise:** 5W2H  
-* **Documentação:** Excel, Word e PowerPoint  
----
-## 📫 Vamos conversar?
-<div align="center">
+<h1 align="center">Olá, eu sou Vinícius Vila 👋</h1> <h3 align="center">Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas — SENAI</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/vinicius-vila-nova/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ffvini686@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=ViniVila&color=0e75b6&style=for-the-badge" alt="visitor count" /> </p> <br>
+🧑‍💻 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vila-nova/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffvini686@gmail.com)
-</div>
----
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, construindo uma base sólida em programação, desenvolvimento de software, banco de dados e desenvolvimento web.
+
+Ao longo da formação, venho aplicando boas práticas de desenvolvimento em projetos acadêmicos e pessoais — sempre buscando soluções eficientes, organizadas e bem documentadas. Tenho experiência com HTML, CSS, JavaScript, Java, PHP, MySQL, Git e GitHub, e mantenho o interesse constante em aprender novas ferramentas e acompanhar as tendências da área de tecnologia.
+
+Aprendizado contínuo e dedicação são a base do meu crescimento profissional. Meu objetivo é construir uma carreira sólida em tecnologia, contribuindo com soluções inovadoras e agregando valor por meio do desenvolvimento de sistemas.
+
+🔭 Atualmente focado em projetos práticos de ADS  •  🌱 Sempre aprendendo algo novo  •  💬 Aberto a oportunidades e colaborações
+
+<br>
+🚀 Em que estou trabalhando agora
+🌐 Desenvolvimento Web — criação de interfaces responsivas e aplicações modernas
+🗄️ Banco de Dados — modelagem, consultas SQL e integração com aplicações
+⚙️ Desenvolvimento de Software — lógica de programação, Clean Code, Git/GitHub e metodologias ágeis
+<br>
+🛠️ Stack Tecnológica
+
+Linguagens
+
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+
+Ferramentas & Bancos de Dados
+
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p> <br>
+🧠 Metodologias & Produtividade
+Agilidade: Kanban & Scrum
+Análise: 5W2H
+Documentação: Excel, Word e PowerPoint
+<br>
+📌 Projetos em Destaque
+<p align="center"> <a href="https://github.com/ViniVila/nome-do-repositorio-1"> <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniVila&repo=nome-do-repositorio-1&hide_border=true" /> </a> <a href="https://github.com/ViniVila/nome-do-repositorio-2"> <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniVila&repo=nome-do-repositorio-2&hide_border=true" /> </a> </p> <p align="center"><i>Substitua pelos nomes reais dos seus repositórios para exibir os cards automaticamente.</i></p> <br>
+📊 Estatísticas do GitHub
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniVila&show_icons=true&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniVila&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniVila&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ViniVila&no-frame=true&row=1&column=6" /> </p> <br>
+📫 Vamos conversar?
+<p align="center"> <a href="https://www.linkedin.com/in/vinicius-vila-nova/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ffvini686@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
