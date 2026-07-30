@@ -30,7 +30,7 @@ Análise: 5W2H
 Documentação: Excel, Word e PowerPoint
 <br>
 📌 Projetos em Destaque
-<p align="center"> <a href="https://github.com/ViniVila/nome-do-repositorio-1"> <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniVila&repo=nome-do-repositorio-1&hide_border=true" /> </a> <a href="https://github.com/ViniVila/nome-do-repositorio-2"> <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniVila&repo=nome-do-repositorio-2&hide_border=true" /> </a> </p> <p align="center"><i>Substitua pelos nomes reais dos seus repositórios para exibir os cards automaticamente.</i></p> <br>
+<p align="center"> <a href="https://github.com/ViniVila/CursoGPT-Formulario"> <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniVila&repo=CursoGPT-Formulario&hide_border=true" /> </a> <a href="https://github.com/ViniVila/TabuadaWhile"> <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniVila&repo=TabuadaWhile&hide_border=true" /> </a> </p> <p align="center"><i>Substitua pelos nomes reais dos seus repositórios para exibir os cards automaticamente.</i></p> <br>
 📊 Estatísticas do GitHub
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniVila&show_icons=true&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniVila&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniVila&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ViniVila&no-frame=true&row=1&column=6" /> </p> <br>
 📫 Vamos conversar?
