@@ -3,9 +3,11 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, construindo uma base sólida em programação, desenvolvimento de software, banco de dados e desenvolvimento web.
 
-Ao longo da minha formação, venho aplicando boas práticas de desenvolvimento em projetos acadêmicos e pessoais, buscando sempre soluções eficientes e bem estruturadas para diferentes desafios. Tenho experiência com HTML, CSS, JavaScript, Java, PHP, MySQL, Git e GitHub, e mantenho o interesse constante em aprender novas ferramentas e acompanhar as tendências da área.
+Ao longo da formação, venho aplicando boas práticas de desenvolvimento em projetos acadêmicos e pessoais — sempre buscando soluções eficientes, organizadas e bem documentadas. Tenho experiência com HTML, CSS, JavaScript, Java, PHP, MySQL, Git e GitHub, e mantenho o interesse constante em aprender novas ferramentas e acompanhar as tendências da área de tecnologia.
 
-Acredito que aprendizado contínuo e dedicação são a base do crescimento profissional — e é isso que busco em cada projeto que desenvolvo. Meu objetivo é construir uma carreira sólida em tecnologia, contribuindo com soluções inovadoras e agregando valor por meio do desenvolvimento de sistemas.
+Aprendizado contínuo e dedicação são a base do meu crescimento profissional. Meu objetivo é construir uma carreira sólida em tecnologia, contribuindo com soluções inovadoras e agregando valor por meio do desenvolvimento de sistemas.
+
+🔭 Atualmente focado em projetos práticos de ADS  •  🌱 Sempre aprendendo algo novo  •  💬 Aberto a oportunidades e colaborações
 
 <br>
 🚀 Em que estou trabalhando agora
@@ -27,7 +29,9 @@ Agilidade: Kanban & Scrum
 Análise: 5W2H
 Documentação: Excel, Word e PowerPoint
 <br>
+📌 Projetos em Destaque
+<p align="center"> <a href="https://github.com/SEU-USUARIO-AQUI/nome-do-repositorio-1"> <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO-AQUI&repo=nome-do-repositorio-1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/SEU-USUARIO-AQUI/nome-do-repositorio-2"> <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO-AQUI&repo=nome-do-repositorio-2&theme=tokyonight&hide_border=true" /> </a> </p> <p align="center"><i>Substitua pelos nomes reais dos seus repositórios para exibir os cards automaticamente.</i></p> <br>
 📊 Estatísticas do GitHub
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" /> </p> <br>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO-AQUI&theme=tokyonight&no-frame=true&row=1&column=6" /> </p> <br>
 📫 Vamos conversar?
 <p align="center"> <a href="https://www.linkedin.com/in/vinicius-vila-nova/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ffvini686@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
