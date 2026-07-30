@@ -8,14 +8,19 @@
 
 ### Desenvolvedor em Formação | SENAI — Análise e Desenvolvimento de Sistemas
 
-Estudante focado em construir soluções modernas e eficientes. Atualmente, equilibro o Ensino Médio com o curso superior de ADS no SENAI, mergulhando no ecossistema Web e Mobile. Sou apaixonado por transformar lógica em código e estou sempre em busca da minha próxima "pequena grande evolução".
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, onde venho desenvolvendo conhecimentos em programação, desenvolvimento de software, banco de dados e desenvolvimento web. Durante minha formação, busco aprimorar minhas habilidades técnicas por meio de projetos acadêmicos e pessoais, sempre aplicando boas práticas de desenvolvimento e buscando soluções eficientes para diferentes desafios.
+
+Tenho experiência com tecnologias como HTML, CSS, JavaScript, Java, PHP, MySQL, Git e GitHub, além de interesse em aprender novas ferramentas e acompanhar as tendências da área de tecnologia. Acredito que o aprendizado contínuo e a dedicação são fundamentais para o crescimento profissional.
+
+Neste GitHub, compartilho projetos que refletem minha evolução como desenvolvedor e meu compromisso com a qualidade, organização e constante aperfeiçoamento. Meu objetivo é construir uma carreira sólida na área de tecnologia, contribuindo com soluções inovadoras e agregando valor por meio do desenvolvimento de sistemas.
 
 ---
 
-## 🚀 O que estou explorando agora?
-- 🌐 **Web:** Construindo interfaces responsivas e APIs seguras.
-- 📱 **Mobile:** Levando experiências para o bolso.
-- ⚙️ **Engenharia:** Clean Code + boas práticas + metodologias ágeis.
+## 🚀 O que estou estudando atualmente?
+
+- 🌐 **Desenvolvimento Web:** Aprimorando minhas habilidades na criação de interfaces responsivas e aplicações modernas.
+- 🗄️ **Banco de Dados:** Modelagem, consultas SQL e integração com aplicações.
+- ⚙️ **Desenvolvimento de Software:** Aplicando lógica de programação, boas práticas, Clean Code, Git/GitHub e metodologias ágeis para desenvolver soluções organizadas e eficientes.
 
 ---
 
