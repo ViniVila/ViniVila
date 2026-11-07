@@ -25,10 +25,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ViniVila&label=Visitas&color=E4002B&style=for-the-badge" alt="Visitas" />
 <img src="https://img.shields.io/github/followers/ViniVila?label=Seguidores&style=for-the-badge&logo=github&color=2c5364" alt="Seguidores" />
-<img src="https://img.shields.io/github/stars/ViniVila?label=Estrelas&style=for-the-badge&logo=github&color=2c5364" alt="Estrelas" />
 <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-2ea44f?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Foco-Python%20%7C%20Java%20%7C%20Web-E4002B?style=for-the-badge" alt="Foco" />
 
 </div>
 
@@ -106,6 +105,38 @@ class ViniciusVila:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:e4002b,100:ff4d4d&height=4" width="100%" alt="divider" />
 
+<!-- ===================== MAPA DE CONHECIMENTO ===================== -->
+<h2 align="center">🗺️ Mapa de Conhecimento</h2>
+
+```mermaid
+mindmap
+  root((Vinícius Vila))
+    Web
+      HTML
+      CSS
+      JavaScript
+      PHP
+    Python
+      Lógica
+      Automação
+    Java
+      Orientação a Objetos
+    Banco de Dados
+      MySQL
+      SQL
+    Ferramentas
+      Git
+      GitHub
+      VS Code
+      Figma
+    Metodologias
+      Scrum
+      Kanban
+      5W2H
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:e4002b,100:ff4d4d&height=4" width="100%" alt="divider" />
+
 <!-- ===================== ATUAÇÃO ===================== -->
 <h2 align="center">🚀 Áreas de Atuação</h2>
 
@@ -142,25 +173,56 @@ class ViniciusVila:
 <!-- ===================== PROJETOS ===================== -->
 <h2 align="center">📌 Projetos em Destaque</h2>
 
-<p align="center">
-  <a href="https://github.com/ViniVila/KEEPER">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniVila&repo=KEEPER&theme=tokyonight&hide_border=true" alt="KEEPER" />
-  </a>
-  <a href="https://github.com/ViniVila/desafio_de_ideias">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniVila&repo=desafio_de_ideias&theme=tokyonight&hide_border=true" alt="desafio_de_ideias" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📁 KEEPER</h3>
+      <img src="https://img.shields.io/github/languages/top/ViniVila/KEEPER?style=flat-square&color=E4002B" alt="Linguagem principal" />
+      <img src="https://img.shields.io/github/last-commit/ViniVila/KEEPER?style=flat-square&color=2c5364&label=%C3%BAltimo%20commit" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/ViniVila/KEEPER?style=flat-square&color=2c5364" alt="Estrelas" />
+      <br><br>
+      <a href="https://github.com/ViniVila/KEEPER">
+        <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-E4002B?style=for-the-badge&logo=github&logoColor=white" alt="Ver KEEPER" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>💡 desafio_de_ideias</h3>
+      <img src="https://img.shields.io/github/languages/top/ViniVila/desafio_de_ideias?style=flat-square&color=E4002B" alt="Linguagem principal" />
+      <img src="https://img.shields.io/github/last-commit/ViniVila/desafio_de_ideias?style=flat-square&color=2c5364&label=%C3%BAltimo%20commit" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/ViniVila/desafio_de_ideias?style=flat-square&color=2c5364" alt="Estrelas" />
+      <br><br>
+      <a href="https://github.com/ViniVila/desafio_de_ideias">
+        <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-E4002B?style=for-the-badge&logo=github&logoColor=white" alt="Ver desafio_de_ideias" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/ViniVila?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-E4002B?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
   </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:e4002b,100:ff4d4d&height=4" width="100%" alt="divider" />
 
-<!-- ===================== METAS ===================== -->
-<h2 align="center">🎯 Metas & Próximos Passos</h2>
+<!-- ===================== ROADMAP ===================== -->
+<h2 align="center">🎯 Roadmap de Evolução</h2>
+
+```mermaid
+flowchart LR
+    A([Lógica de<br>Programação]) --> B([POO<br>com Java])
+    B --> C([Web<br>HTML, CSS, JS, PHP])
+    C --> D([Banco de Dados<br>MySQL])
+    D --> E([Projetos<br>Práticos])
+    E --> F([Python &<br>Automação])
+    F --> G([Primeira<br>Oportunidade])
+
+    classDef base fill:#203a43,stroke:#00D9FF,color:#ffffff,stroke-width:2px;
+    classDef meta fill:#E4002B,stroke:#ffffff,color:#ffffff,stroke-width:2px;
+    class A,B,C,D,E,F base;
+    class G meta;
+```
 
 <div align="center">
 
@@ -175,24 +237,34 @@ class ViniciusVila:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:e4002b,100:ff4d4d&height=4" width="100%" alt="divider" />
 
-<!-- ===================== ESTATÍSTICAS ===================== -->
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<!-- ===================== COLABORAÇÃO ===================== -->
+<h2 align="center">🤝 Vamos colaborar?</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViniVila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniVila&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  Tenho interesse em projetos que envolvam <b>Python</b>, <b>desenvolvimento web</b> e <b>banco de dados</b>.<br>
+  Se você busca um desenvolvedor em formação dedicado, ou quer trocar ideias e conhecimento, será um prazer conversar.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:e4002b,100:ff4d4d&height=4" width="100%" alt="divider" />
+
+<!-- ===================== CONTATO ===================== -->
+<h2 align="center">📫 Contato</h2>
+
+<p align="center">
+  <i>"Aprendizado contínuo e dedicação são a base do meu crescimento profissional."</i>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ViniVila&theme=tokyonight&hide_border=true" alt="Streak" />
+  <a href="https://www.linkedin.com/in/vinicius-vila-nova/">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ffvini686@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ViniVila">
+    <img src="https://img.shields.io/badge/Seguir%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ViniVila&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniVila&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b000
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" width="100%" alt="Footer" />
