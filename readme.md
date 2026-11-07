@@ -1,12 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Vin%C3%ADcius%20Vila&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Python%20%E2%80%A2%20CSS%20%E2%80%A2%20Web&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Vin%C3%ADcius%20Vila&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Python%20%E2%80%A2%20HTML%20%E2%80%A2%20CSS&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
 <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <p>
-  🐍 Python &nbsp;•&nbsp; ☕ CSS &nbsp;•&nbsp; ⚡ HTML &nbsp;•&nbsp; 🐘 PHP<br>
+  🐍 Python &nbsp;•&nbsp; 🌐 HTML &nbsp;•&nbsp; 🎨 CSS &nbsp;•&nbsp; ⚡ JavaScript &nbsp;•&nbsp; 🐘 PHP<br>
   <i>Transformando ideias em soluções reais</i>
 </p>
 
@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/github/followers/ViniVila?label=Seguidores&style=for-the-badge&logo=github&color=2c5364" alt="Seguidores" />
 <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-2ea44f?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Foco-Python%20%7C%20Java%20%7C%20Web-E4002B?style=for-the-badge" alt="Foco" />
+<img src="https://img.shields.io/badge/Foco-Python%20%7C%20HTML%20%7C%20CSS-E4002B?style=for-the-badge" alt="Foco" />
 
 </div>
 
@@ -47,7 +47,7 @@ sempre em busca de soluções eficientes, organizadas e escaláveis.
 class ViniciusVila:
     nome = "Vinícius Vila"
     formacao = "Análise e Desenvolvimento de Sistemas — SENAI"
-    linguagens = ["Python", "Java", "JavaScript", "PHP", "HTML", "CSS"]
+    linguagens = ["Python", "HTML", "CSS", "JavaScript", "PHP"]
     banco_de_dados = ["MySQL"]
     ferramentas = ["Git", "GitHub", "VS Code", "Figma"]
     metodologias = ["Scrum", "Kanban", "5W2H"]
@@ -62,7 +62,7 @@ class ViniciusVila:
 
 | 🎯 Objetivo | 🔭 Foco atual | 💼 Disponibilidade | 🌱 Aprendendo |
 |:---:|:---:|:---:|:---:|
-| Carreira sólida em tecnologia | Projetos práticos em Python, Java e Web | Estágio, trainee e colaborações | Novas ferramentas e boas práticas |
+| Carreira sólida em tecnologia | Projetos práticos em Python, HTML, CSS e Web | Estágio, trainee e colaborações | Novas ferramentas e boas práticas |
 
 </div>
 
@@ -90,7 +90,7 @@ class ViniciusVila:
 
 <h3 align="center">⌨️ Linguagens</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css&perline=6&theme=dark" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php&perline=5&theme=dark" alt="Linguagens" />
 </p>
 
 <h3 align="center">🗄️ Banco de Dados</h3>
@@ -119,8 +119,6 @@ mindmap
     Python
       Lógica
       Automação
-    Java
-      Orientação a Objetos
     Banco de Dados
       MySQL
       SQL
@@ -144,9 +142,9 @@ mindmap
 
 | | Área | O que eu faço |
 |:---:|:---|:---|
-| 🌐 | **Desenvolvimento Web** | Interfaces responsivas e aplicações modernas com HTML, CSS, JavaScript e PHP |
+| 🌐 | **Desenvolvimento Web** | Interfaces responsivas com HTML5 e CSS3 e aplicações modernas com JavaScript e PHP |
 | 🐍 | **Python & Automação** | Scripts, lógica de programação e automação de rotinas |
-| ☕ | **Desenvolvimento de Software** | Programação orientada a objetos com Java, Clean Code e Git/GitHub |
+| 💻 | **Desenvolvimento de Software** | Programação orientada a objetos, Clean Code e Git/GitHub |
 | 🗄️ | **Banco de Dados** | Modelagem, consultas SQL e integração com aplicações usando MySQL |
 | 🎨 | **Design de Interfaces** | Protótipos e layouts com Figma, focados em experiência do usuário |
 
@@ -211,17 +209,18 @@ mindmap
 
 ```mermaid
 flowchart LR
-    A([Lógica de<br>Programação]) --> B([POO<br>com Java])
-    B --> C([Web<br>HTML, CSS, JS, PHP])
-    C --> D([Banco de Dados<br>MySQL])
-    D --> E([Projetos<br>Práticos])
-    E --> F([Python &<br>Automação])
-    F --> G([Primeira<br>Oportunidade])
+    A([Lógica de<br>Programação]) --> B([Programação<br>Orientada a Objetos])
+    B --> C([Front-end<br>HTML e CSS])
+    C --> D([JavaScript<br>e PHP])
+    D --> E([Banco de Dados<br>MySQL])
+    E --> F([Projetos<br>Práticos])
+    F --> G([Python &<br>Automação])
+    G --> H([Primeira<br>Oportunidade])
 
     classDef base fill:#203a43,stroke:#00D9FF,color:#ffffff,stroke-width:2px;
     classDef meta fill:#E4002B,stroke:#ffffff,color:#ffffff,stroke-width:2px;
-    class A,B,C,D,E,F base;
-    class G meta;
+    class A,B,C,D,E,F,G base;
+    class H meta;
 ```
 
 <div align="center">
