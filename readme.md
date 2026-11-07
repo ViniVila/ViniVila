@@ -6,7 +6,7 @@
 <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <p>
-  🐍 Python &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; ⚡ JavaScript &nbsp;•&nbsp; 🐘 PHP<br>
+  🐍 Python &nbsp;•&nbsp; ☕ CSS &nbsp;•&nbsp; ⚡ HTML &nbsp;•&nbsp; 🐘 PHP<br>
   <i>Transformando ideias em soluções reais</i>
 </p>
 
