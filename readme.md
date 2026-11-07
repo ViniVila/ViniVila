@@ -1,10 +1,10 @@
-<!-- HEADER -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Vin%C3%ADcius%20Vila&fontSize=64&fontColor=00D9FF&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Python%20%E2%80%A2%20CSS%20%E2%80%A2%20Web&descSize=20&descColor=ffffff&descAlignY=60&animation=twinkling" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Vin%C3%ADcius%20Vila&fontSize=66&fontColor=00D9FF&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Python%20%E2%80%A2%20CSS%20%E2%80%A2%20Web&descSize=21&descColor=ffffff&descAlignY=60&animation=twinkling" width="100%" alt="Header" />
 
 <a href="https://github.com/ViniVila">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%F0%9F%90%8D+Python+%7C+%E2%98%95+Java+%7C+%E2%9A%A1+JavaScript+%7C+%F0%9F%90%98+PHP;%F0%9F%92%A1+Transformando+ideias+em+solu%C3%A7%C3%B5es+reais;%F0%9F%92%BC+Aberto+a+oportunidades+de+est%C3%A1gio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%9A%80+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%F0%9F%90%8D+Python+%7C+%E2%98%95+Java+%7C+%E2%9A%A1+JavaScript+%7C+%F0%9F%90%98+PHP;%F0%9F%92%A1+Transformando+ideias+em+solu%C3%A7%C3%B5es+reais;%F0%9F%92%BC+Aberto+a+oportunidades+de+est%C3%A1gio" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -24,13 +24,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=ViniVila&label=Visitas&color=00D9FF&style=for-the-badge" alt="Visitas" />
 <img src="https://img.shields.io/github/followers/ViniVila?label=Seguidores&style=for-the-badge&logo=github&color=2c5364" alt="Seguidores" />
+<img src="https://img.shields.io/github/stars/ViniVila?label=Estrelas&style=for-the-badge&logo=github&color=2c5364" alt="Estrelas" />
 <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-2ea44f?style=for-the-badge" alt="Status" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-<!-- SOBRE -->
+<!-- ===================== SOBRE ===================== -->
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
 <p align="center">
@@ -39,6 +40,21 @@ desenvolvimento de software, bancos de dados e desenvolvimento web.<br><br>
 Aplico boas práticas como <b>Clean Code</b>, versionamento com <b>Git</b> e documentação em todos os meus projetos,<br>
 sempre em busca de soluções eficientes, organizadas e escaláveis.
 </p>
+
+```python
+class ViniciusVila:
+    nome = "Vinícius Vila"
+    formacao = "Análise e Desenvolvimento de Sistemas — SENAI"
+    linguagens = ["Python", "Java", "JavaScript", "PHP", "HTML", "CSS"]
+    banco_de_dados = ["MySQL"]
+    ferramentas = ["Git", "GitHub", "VS Code", "Figma"]
+    metodologias = ["Scrum", "Kanban", "5W2H"]
+    objetivo = "Construir uma carreira sólida em tecnologia"
+    status = "Aberto a estágio, trainee e colaborações"
+
+    def frase(self):
+        return "Aprendizado contínuo e dedicação são a base do meu crescimento."
+```
 
 <div align="center">
 
@@ -50,7 +66,24 @@ sempre em busca de soluções eficientes, organizadas e escaláveis.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-<!-- STACK -->
+<!-- ===================== FORMAÇÃO ===================== -->
+<h2 align="center">🎓 Formação</h2>
+
+<div align="center">
+
+| Curso | Instituição | Status |
+|:---:|:---:|:---:|
+| Análise e Desenvolvimento de Sistemas (ADS) | SENAI | 📚 Em andamento |
+
+</div>
+
+<p align="center">
+  <b>Conteúdos estudados:</b> Lógica de Programação • Programação Orientada a Objetos • Banco de Dados • Desenvolvimento Web • Versionamento com Git • Metodologias Ágeis
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
+
+<!-- ===================== STACK ===================== -->
 <h2 align="center">🛠️ Stack Tecnológica</h2>
 
 <h3 align="center">⌨️ Linguagens</h3>
@@ -58,14 +91,19 @@ sempre em busca de soluções eficientes, organizadas e escaláveis.
   <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css&perline=6&theme=dark" alt="Linguagens" />
 </p>
 
-<h3 align="center">🧰 Banco de Dados & Ferramentas</h3>
+<h3 align="center">🗄️ Banco de Dados</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&perline=5&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Banco de Dados" />
+</p>
+
+<h3 align="center">🧰 Ferramentas & Design</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4&theme=dark" alt="Ferramentas" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-<!-- ATUAÇÃO -->
+<!-- ===================== ATUAÇÃO ===================== -->
 <h2 align="center">🚀 Áreas de Atuação</h2>
 
 <div align="center">
@@ -82,7 +120,7 @@ sempre em busca de soluções eficientes, organizadas e escaláveis.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-<!-- METODOLOGIAS -->
+<!-- ===================== METODOLOGIAS ===================== -->
 <h2 align="center">🧠 Metodologias & Produtividade</h2>
 
 <p align="center">
@@ -98,7 +136,7 @@ sempre em busca de soluções eficientes, organizadas e escaláveis.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-<!-- PROJETOS -->
+<!-- ===================== PROJETOS ===================== -->
 <h2 align="center">📌 Projetos em Destaque</h2>
 
 <p align="center">
@@ -110,9 +148,31 @@ sempre em busca de soluções eficientes, organizadas e escaláveis.
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ViniVila?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-2c5364?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-<!-- ESTATÍSTICAS -->
+<!-- ===================== EM ANDAMENTO ===================== -->
+<h2 align="center">🎯 Metas & Próximos Passos</h2>
+
+<div align="center">
+
+| Meta | Descrição |
+|:---|:---|
+| 🐍 **Aprofundar em Python** | Evoluir em lógica, automação e boas práticas na linguagem |
+| 🌐 **Projetos Web completos** | Integrar front-end, back-end e banco de dados em aplicações reais |
+| 🤝 **Contribuir em projetos** | Colaborar em projetos em equipe e aprender com outros desenvolvedores |
+| 💼 **Primeira oportunidade** | Ingressar na área de tecnologia por meio de estágio ou trainee |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
+
+<!-- ===================== ESTATÍSTICAS ===================== -->
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
@@ -134,17 +194,34 @@ sempre em busca de soluções eficientes, organizadas e escaláveis.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-<!-- CONTATO -->
-<h2 align="center">📫 Vamos conversar?</h2>
+<!-- ===================== COLABORAÇÃO ===================== -->
+<h2 align="center">🤝 Vamos colaborar?</h2>
+
+<p align="center">
+  Tenho interesse em projetos que envolvam <b>Python</b>, <b>desenvolvimento web</b> e <b>banco de dados</b>.<br>
+  Se você busca um desenvolvedor em formação dedicado, ou quer trocar ideias e conhecimento, será um prazer conversar.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
+
+<!-- ===================== CONTATO ===================== -->
+<h2 align="center">📫 Contato</h2>
 
 <p align="center">
   <i>"Aprendizado contínuo e dedicação são a base do meu crescimento profissional."</i>
 </p>
 
 <p align="center">
-  Estou sempre aberto a novas oportunidades, parcerias e troca de conhecimento.
+  <a href="https://www.linkedin.com/in/vinicius-vila-nova/">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ffvini686@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ViniVila">
+    <img src="https://img.shields.io/badge/Seguir%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-vila-nova/">
-    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer&animation=twinkling" width="100%" alt="Footer" />
