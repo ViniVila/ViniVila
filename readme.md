@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Vin%C3%ADcius%20Vila&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Python%20%E2%80%A2%20Java%20%E2%80%A2%20Web&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Vin%C3%ADcius%20Vila&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Python%20%E2%80%A2%20CSS%20%E2%80%A2%20Web&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
 <a href="https://github.com/ViniVila">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Java+%7C+JavaScript+%7C+PHP;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais;Aberto+a+oportunidades+de+est%C3%A1gio" alt="Typing SVG" />
