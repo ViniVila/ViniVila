@@ -6,7 +6,7 @@
 <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <p>
-  🐍 Python &nbsp;•&nbsp; 🌐 HTML &nbsp;•&nbsp; 🎨 CSS &nbsp;•&nbsp; ⚡ JavaScript &nbsp;•&nbsp; 🐘 PHP<br>
+  🐍 Python &nbsp;•&nbsp; 🌐 HTML &nbsp;•&nbsp; 🎨 CSS &nbsp;•&nbsp; ⚡ JavaScript &nbsp;•&nbsp; <br>
   <i>Transformando ideias em soluções reais</i>
 </p>
 
@@ -47,7 +47,7 @@ sempre em busca de soluções eficientes, organizadas e escaláveis.
 class ViniciusVila:
     nome = "Vinícius Vila"
     formacao = "Análise e Desenvolvimento de Sistemas — SENAI"
-    linguagens = ["Python", "HTML", "CSS", "JavaScript", "PHP"]
+    linguagens = ["Python", "HTML", "CSS", "JavaScript"]
     banco_de_dados = ["MySQL"]
     ferramentas = ["Git", "GitHub", "VS Code", "Figma"]
     metodologias = ["Scrum", "Kanban", "5W2H"]
