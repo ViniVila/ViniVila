@@ -90,7 +90,7 @@ class ViniciusVila:
 
 <h3 align="center">⌨️ Linguagens</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php&perline=5&theme=dark" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js&perline=4&theme=dark" alt="Linguagens" />
 </p>
 
 <h3 align="center">🗄️ Banco de Dados</h3>
@@ -115,7 +115,6 @@ mindmap
       HTML
       CSS
       JavaScript
-      PHP
     Python
       Lógica
       Automação
@@ -142,7 +141,7 @@ mindmap
 
 | | Área | O que eu faço |
 |:---:|:---|:---|
-| 🌐 | **Desenvolvimento Web** | Interfaces responsivas com HTML5 e CSS3 e aplicações modernas com JavaScript e PHP |
+| 🌐 | **Desenvolvimento Web** | Interfaces responsivas com HTML5 e CSS3 e aplicações modernas com JavaScript |
 | 🐍 | **Python & Automação** | Scripts, lógica de programação e automação de rotinas |
 | 💻 | **Desenvolvimento de Software** | Programação orientada a objetos, Clean Code e Git/GitHub |
 | 🗄️ | **Banco de Dados** | Modelagem, consultas SQL e integração com aplicações usando MySQL |
@@ -211,7 +210,7 @@ mindmap
 flowchart LR
     A([Lógica de<br>Programação]) --> B([Programação<br>Orientada a Objetos])
     B --> C([Front-end<br>HTML e CSS])
-    C --> D([JavaScript<br>e PHP])
+    C --> D([JavaScript])
     D --> E([Banco de Dados<br>MySQL])
     E --> F([Projetos<br>Práticos])
     F --> G([Python &<br>Automação])
